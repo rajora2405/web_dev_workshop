@@ -1,0 +1,29 @@
+h4{
+  margin:50px;
+  color:blue;
+  padding:10px;
+  border:10px solid black;
+  font-family:verdana;
+  outline-offset:15px;
+  height:100px;
+  width:500px;
+  text-align:center;
+  outline:10px solid red;
+}
+#box {
+    display: block; 
+    outline: 2px solid blue;
+    padding: 20px;
+    margin: 20px;
+}
+
+h1 {
+    display: inline-block; 
+    background-color:lightblue;
+    padding: 10px;
+}
+
+h4 {
+    display: block;
+    margin-top: 10px;
+}
