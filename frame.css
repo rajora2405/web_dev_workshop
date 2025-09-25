@@ -1,0 +1,14 @@
+div{
+    background-image: url("download.jpeg");
+    width: 1200px;
+    background-color: rgb(162, 242, 242);
+    width: 700px;
+    border: 30px solid rgb(20, 150, 220);
+    padding: 60px;
+    margin: 25px;
+}
+.content {
+    background: rgb(237, 180, 180);
+    font-size: 30px;
+    width: 300px;
+}
